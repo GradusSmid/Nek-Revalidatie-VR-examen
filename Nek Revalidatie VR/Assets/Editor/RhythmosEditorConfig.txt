@@ -1,0 +1,4 @@
+RhythmosEditor - Configuration
+
+LastRhythmosDatabaseFile: C:/Bureaublad/Examens_2/Nek Revalidatie VR/Assets/RhythmosDatabase.xml
+MetronomeSound: none
